@@ -28,6 +28,7 @@ h1 {
   border: 1px solid #ccc;
   border-radius: 5px;
 }
+
 input[type="button"] {
   width: 22%;
   padding: 20px;
@@ -41,7 +42,15 @@ input[type="button"] {
   background-color: #f2a33c;
   color: #fff;
 }
+
+.operator:hover{
+  background-color: #f5bb70;
+}
 .equal {
   background-color: #3c8d2f;
   color: #fff;
+}
+
+.equal:hover{
+  background-color: #72d463;
 }
